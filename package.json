@@ -1,0 +1,11 @@
+{
+  "name": "botdeneme",
+  "version": "0.0.5",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Deneme",
+  "license": "ISC"
+}
